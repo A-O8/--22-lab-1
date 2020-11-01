@@ -1,0 +1,10 @@
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\bin\Debug\лаб  работа 1.exe.config
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\bin\Debug\лаб  работа 1.exe
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\bin\Debug\лаб  работа 1.pdb
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб  работа 1.csprojAssemblyReference.cache
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб__работа_1.Form1.resources
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб__работа_1.Properties.Resources.resources
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб  работа 1.csproj.GenerateResource.cache
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб  работа 1.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб  работа 1.exe
+C:\Users\omerh\source\repos\лаб  работа 1\лаб  работа 1\obj\Debug\лаб  работа 1.pdb
